@@ -17,7 +17,11 @@ namespace DataGov_API_Intro.Controllers
         HttpClient httpClient;
 
         static string BASE_URL = "https://developer.nps.gov/api/v1/";
+<<<<<<< HEAD
         static string API_KEY = "LOKGRWslenRfFQA1GEev9fjL3kHa0uDiF753XfFj"; //Add your API key here inside ""
+=======
+        static string API_KEY = "5P6InWprXwaiuVPhhcMbvWUbUA3Ftu8HUSrpTcfA"; //Add your API key here inside ""
+>>>>>>> dca3633... Initial check-in of module DataGov_API_Intro
 
         // Obtaining the API key is easy. The same key should be usable across the entire
         // data.gov developer network, i.e. all data sources on data.gov.
